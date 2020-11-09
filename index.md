@@ -4,7 +4,7 @@
 
 ### Robotics Engineering
 
-[Project 1 Title](/sample_page)
+[Bachelor Degree Thesis - Autonomous Robots](/sample_page)
 <img src="images/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
