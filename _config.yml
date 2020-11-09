@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Nice to have you here! Welcome to my portafolio website.
   <br><br>
   The aim of this website is to showcase my work as a robotics and software engineer. 
-  #<br><br>
+  <br><br>
   <a href="https://www.linkedin.com/in/nestoregon/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
