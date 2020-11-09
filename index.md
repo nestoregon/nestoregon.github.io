@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Mapping of the great barrier reef](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
