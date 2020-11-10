@@ -13,7 +13,7 @@ Developed using ROS and Python.
 [Mapping of the great barrier reef](/sub_pages/great_coral_reef.md)  
 Matlab applied to computer vision
   
-<img src="images/the_final_countdown.gif?raw=true"/>
+<img src="images/thesis_ball_following.gif?raw=true"/>
 
 ---
 [Data Analyst at Grok Learning](/sub_pages/grok_learning.md)  
