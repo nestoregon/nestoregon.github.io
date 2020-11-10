@@ -1,10 +1,15 @@
 title: Nestor Morales # your name (or website title) here
 logo: "/images/nestor_sitting.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Nice to have you here!
+  Nice to have you here!  
   The aim of this website is to showcase my work as a robotics and software engineer. 
   <br><br>
+  I consider myself to be a dynamic and creative engineer born in Alicante (Spain). Attention to detail is one crucial 
+  in the development of any of my applications. Be the judge!
+
   <a href="https://www.linkedin.com/in/nestoregon/">View My LinkedIn Profile</a> 
+  <a href="nmoralesdlf@gmail.com">nmoralesdlf@gmail.com</a> 
+
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
