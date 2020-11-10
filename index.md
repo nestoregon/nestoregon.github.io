@@ -6,7 +6,7 @@
 
 [Bachelor Degree Thesis - Autonomous Robots](/pdf/thesis_skovde.pdf)  
 Developed using ROS and Python.
-<img src="images/dummy_thumbnail.jpeg?raw=true"/>
+<img src="images/thesis_ball_following.gif?raw=true"/>
 
 ---
 [Mapping of the great barrier reef](/pdf/sample_presentation.pdf)  
