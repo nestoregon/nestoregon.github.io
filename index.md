@@ -5,18 +5,22 @@
 ### Robotics Engineering
 
 [Bachelor Degree Thesis - Autonomous Robots](/pdf/thesis_skovde.pdf)  
+Developed using ROS and Python.
 <img src="images/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
 [Mapping of the great barrier reef](/pdf/sample_presentation.pdf)  
+Matlab applied to computer vision
 <img src="images/the_final_countdown.gif?raw=true"/>
 
 ---
 [Data Analyst at Grok Learning](http://example.com/)  
+Tableau, SQL and Pandas (python)
 <img src="images/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
 [Robotics Engineer at Hullbot](http://example.com/)  
+C++ and IoT technologies
 <img src="images/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
