@@ -5,7 +5,7 @@
 ### Robotics Engineering
 
 [Bachelor Degree Thesis - Autonomous Robots](/sample_page)
-<img src="images/intro.gif?raw=true"/>
+<img src="images/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
 [Mapping of the great barrier reef](/pdf/sample_presentation.pdf)
