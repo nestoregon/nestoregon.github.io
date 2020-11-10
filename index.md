@@ -11,17 +11,20 @@ Developed using ROS and Python.
 
 ---
 [Mapping of the great barrier reef](/sub_pages/great_coral_reef.md)  
-Matlab applied to computer vision  
+Matlab applied to computer vision
+  
 <img src="images/the_final_countdown.gif?raw=true"/>
 
 ---
 [Data Analyst at Grok Learning](/sub_pages/grok_learning.md)  
 Tableau, SQL and Pandas (python)
+  
 <img src="images/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
 [Robotics Engineer at Hullbot](/sub_pages/hullbot.md)  
 C++ and IoT technologies
+  
 <img src="images/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
