@@ -12,5 +12,5 @@ The goal of this thesis was to provide learning tool for the University of Sköv
 
 ## GitHub repository
 The project is subdivided into:
-- [Autonomous Robotics Real](www.github.com/nestoregon/). Code for the real robot in a live environment.
-- [Autonomous Robotics Simulation](www.github.com/nestoregon/). Code for the robot simulation and its environment in Gazebo.
+- [Autonomous Robotics Real](https://github.com/nestoregon/alphabot2pi_real). Code for the real robot in a live environment.
+- [Autonomous Robotics Simulation](https://github.com/nestoregon/alphabot2pi_simulation). Code for the robot simulation and its environment in Gazebo.
