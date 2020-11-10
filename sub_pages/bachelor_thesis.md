@@ -15,7 +15,7 @@ The duration of the project was of 6 months. The problem was fractioned into cha
 
 ![Schema](../images/thesis_schema_nodes.png)
 
-## Conclusions
+## Outcome
 
 There are 3 main modes that we can set our robot to do:
 
@@ -26,7 +26,7 @@ There are 3 main modes that we can set our robot to do:
 ![Ball Following Mode](../images/thesis_ball_following_mode.gif)
 
 - Servo ball following mode. In this mode the robot will use the servo to keep the ball in sight.
-![Servo following Mode](../images/thesis_ball_following_mode.gif)
+![Servo following Mode](../images/thesis_servo_mode.gif)
 
 ## GitHub repository
 The project is subdivided into:
