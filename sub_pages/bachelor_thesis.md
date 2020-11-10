@@ -1,5 +1,5 @@
 # Bachelor Thesis - Autonomous Robotics Platforms
-The goal of this thesis was to provide learning tool for the University of Skövde to be able to teach robotics.  
+The goal of this thesis was to provide a learning tool for the University of Skövde to be able to teach robotics.  
 
 ## Tools 
 - [ROS](https://www.ros.org/) (Robot Operative System). This framework is widely used for agile development of robotic platforms.
