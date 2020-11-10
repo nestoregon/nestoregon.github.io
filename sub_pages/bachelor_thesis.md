@@ -28,12 +28,15 @@ There are 3 main modes that we can set our robot to do:
 - Servo ball following mode. In this mode the robot will use the servo to keep the ball in sight.
 ![Servo following Mode](../images/thesis_servo_mode.gif)
 
+## Gazebo Simulation
+
+All the actions contemplated above were also developed in Gazebo with the purpose of implementing an accurate representation of the robot where to test code.
+
 ## GitHub repository
 The project is subdivided into:
 - [Autonomous Robotics Real](https://github.com/nestoregon/alphabot2pi_real). Code for the real robot in a live environment.
 - [Autonomous Robotics Simulation](https://github.com/nestoregon/alphabot2pi_simulation). Code for the robot simulation and its environment in Gazebo.
 
 ## Authors
-
 * **Nestor Morales** - *Control Code and Gazebo Simulation* - [nestoregon](https://github.com/nestoregon)
 * **Manuel Serrano** - *Control Code and Gazebo Simulation*
