@@ -5,7 +5,7 @@
 ### Robotics Engineering
 
 [Bachelor Degree Thesis - Autonomous Robots](/pdf/thesis_skovde.pdf)  
-Developed using ROS and Python.
+Developed using ROS and Python.  
 <img src="images/thesis_ball_following.gif?raw=true"/>
 
 ---
