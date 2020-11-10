@@ -10,7 +10,7 @@ Developed using ROS and Python.
 <img src="images/thesis_ball_following_mode.gif?raw=true"/>
 
 ---
-[Mapping of the great barrier reef](/sub_pages/great_coral_reef.md)  
+[Mapping of the great barrier reef](/sub_pages/great_barrier_reef.md)  
 Matlab applied to computer vision
   
 <img src="images/thesis_ball_following.gif?raw=true"/>
