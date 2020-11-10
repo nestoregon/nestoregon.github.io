@@ -4,19 +4,19 @@
 
 ### Robotics Engineering
 
-[Bachelor Degree Thesis - Autonomous Robots](/sample_page)
+[Bachelor Degree Thesis - Autonomous Robots](/sample_page)  
 <img src="images/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
-[Mapping of the great barrier reef](/pdf/sample_presentation.pdf)
+[Mapping of the great barrier reef](/pdf/sample_presentation.pdf)  
 <img src="images/the_final_countdown.gif?raw=true"/>
 
 ---
-[Data Analyst at Grok Learning](http://example.com/)
+[Data Analyst at Grok Learning](http://example.com/)  
 <img src="images/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
-[Robotics Engineer at Hullbot](http://example.com/)
+[Robotics Engineer at Hullbot](http://example.com/)  
 <img src="images/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
