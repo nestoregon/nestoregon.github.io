@@ -13,7 +13,7 @@ The duration of the project was of 6 months. The problem was fractioned into cha
 - Control: Once all the inputs have been processed into useful data the control node be in charge of making decisions. This is like the brain of the robot, it will generate the necessary outputs to take actions in the environment.
 - Output chain: This chain receives interprets the data received from the control.
 
-![Schema](images/thesis_schema_nodes.png)
+![Schema](../images/thesis_schema_nodes.png)
 
 
 
