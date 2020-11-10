@@ -4,7 +4,7 @@
 
 ### Robotics Engineering
 
-[Bachelor Degree Thesis - Autonomous Robots](/sample_page)  
+[Bachelor Degree Thesis - Autonomous Robots](/pdf/thesis_skovde.pdf)  
 <img src="images/dummy_thumbnail.jpeg?raw=true"/>
 
 ---
