@@ -4,11 +4,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   Nice to have you here!  
   The aim of this website is to showcase my work as a robotics and software engineer. 
   <br><br>
-  I consider myself to be a dynamic and creative engineer born in Alicante (Spain). Attention to detail is one crucial 
-  in the development of any of my applications. Be the judge!
-
+  The following links contain information about each major project that I have been part of.
+  <br><br>
   <a href="https://www.linkedin.com/in/nestoregon/">View My LinkedIn Profile</a> 
-  <a href="nmoralesdlf@gmail.com">nmoralesdlf@gmail.com</a> 
+  <br><br>
+  <a href="mailto:nmoralesdlf@gmail.com">nmoralesdlf@gmail.com</a> 
 
 
 theme: jekyll-theme-minimal
