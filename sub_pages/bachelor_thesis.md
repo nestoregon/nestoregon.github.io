@@ -8,6 +8,14 @@ The goal of this thesis was to provide learning tool for the University of Sköv
 - Alphabot 2 Pi. Robot hardware used for the development. Is includes a Raspberry Pi 3 to run an image of ROS. You can check out the model [here](https://www.waveshare.com/wiki/AlphaBot2-Pi).
 
 ## Development
+The duration of the project was of 6 months. The problem was fractioned into chains.
+- Input chain: Receiving information from the sensors and processing the data. The processed data is then published into a ROS topic for the middle chain.
+- Control: Once all the inputs have been processed into useful data the control node be in charge of making decisions. This is like the brain of the robot, it will generate the necessary outputs to take actions in the environment.
+- Output chain: This chain receives interprets the data received from the control.
+
+![Schema](images/thesis_schema_nodes.png)
+
+
 
 ## Conclusions
 
