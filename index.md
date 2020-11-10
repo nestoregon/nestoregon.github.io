@@ -1,10 +1,7 @@
 ## Portfolio
 
 ---
-
-### Robotics Engineering
-
-[Bachelor Degree Thesis - Autonomous Robots](/sub_pages/bachelor_thesis.md)  
+###[Bachelor Degree Thesis - Autonomous Robots](/sub_pages/bachelor_thesis.md)  
 Developed using ROS and Python.
   
 <img src="images/thesis_ball_following_mode.gif?raw=true"/>
