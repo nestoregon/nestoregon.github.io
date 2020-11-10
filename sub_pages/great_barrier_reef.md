@@ -8,7 +8,7 @@ The goal was to map the barrier reef given a set of images and data belonging to
 
 ## Development
 
-## Conclussions
+## Conclusions
 
 ## Author
  

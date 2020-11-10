@@ -25,7 +25,7 @@ Tableau, SQL and Pandas (python)
 [Robotics Engineer at Hullbot](/sub_pages/hullbot.md)  
 C++ and IoT technologies
   
-<img src="images/dummy_thumbnail.jpeg?raw=true"/>
+<img src="images/hullbot_workflow.jpg?raw=true"/>
 
 ---
 

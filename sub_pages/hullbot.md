@@ -3,7 +3,7 @@
 My role inside the company was to develop the IoT technologies to transfer valueable data from the robot.
 
 ## Tools
-- [C++](https://www.cpp.com) programming language to deplot the IoT platform
+- [C++](https://es.wikipedia.org/wiki/C%2B%2B) programming language to deplot the IoT platform
 - [Particle Electron](https://docs.particle.io/electron/) is an IoT board provided with a SIM card slot for IoT communications and access to internet.
 
 ## Development
@@ -15,7 +15,7 @@ There were two major tasks carried out:
 
 
 
-## Conclussions
+## Conclusions
 The development was challenging given that it required to develop and apply something from scratch.
 
 ## Recommendation letter
