@@ -4,14 +4,14 @@
 
 ### Robotics Engineering
 
-[Bachelor Degree Thesis - Autonomous Robots](/sub_pages/sub_pages/bachelor_thesis.md)
+[Bachelor Degree Thesis - Autonomous Robots](/sub_pages/sub_pages/bachelor_thesis.md)  
 Developed using ROS and Python.
   
 <img src="images/thesis_ball_following.gif?raw=true"/>
 
 ---
 [Mapping of the great barrier reef](/sub_pages/great_coral_reef.md)  
-Matlab applied to computer vision
+Matlab applied to computer vision  
 <img src="images/the_final_countdown.gif?raw=true"/>
 
 ---
