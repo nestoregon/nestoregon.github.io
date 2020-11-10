@@ -31,6 +31,7 @@ There are 3 main modes that we can set our robot to do:
 ## Gazebo Simulation
 
 All the actions contemplated above were also developed in Gazebo with the purpose of implementing an accurate representation of the robot where to test code.
+![Gazebo Simulation](../images/thesis_gazebo.gif)
 
 ## GitHub repository
 The project is subdivided into:
