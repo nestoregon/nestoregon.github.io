@@ -15,9 +15,18 @@ The duration of the project was of 6 months. The problem was fractioned into cha
 
 ![Schema](../images/thesis_schema_nodes.png)
 
-
-
 ## Conclusions
+
+There are 3 main modes that we can set our robot to do:
+
+- Manual mode. In this mode the robot is controlled via a remote controller.
+![Manual mode](../images/thesis_manual_mode.gif)
+
+- Ball following mode. In this mode the robot mantains a distance with the ball.
+![Ball Following Mode](../images/thesis_ball_following_mode.gif)
+
+- Servo ball following mode. In this mode the robot will use the servo to keep the ball in sight.
+![Servo following Mode](../images/thesis_ball_following_mode.gif)
 
 ## GitHub repository
 The project is subdivided into:
