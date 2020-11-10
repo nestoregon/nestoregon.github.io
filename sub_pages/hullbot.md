@@ -20,3 +20,5 @@ The development was challenging given that it required to develop and apply some
 
 ## Recommendation letter
 
+[Recommendation letter Hullbot](pdf/recommendation_letter_hullbot.pdf)
+
