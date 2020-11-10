@@ -5,7 +5,7 @@ The goal of this thesis was to provide a learning tool for the University of Sk√
 - [ROS](https://www.ros.org/) (Robot Operative System). This framework is widely used for agile development of robotic platforms.
 - [Python](https://www.python.org/). The robot was programmed using python given its widely flexibility and quick implementation.
 - [Gazebo](http://gazebosim.org/). Simulation platform already implemented with ROS. This tool was used in order to test the concepts before implementing them in real life.
-- [Alphabot 2 Pi](https://www.waveshare.com/wiki/AlphaBot2-Pi). Robot hardware used for the development. Is includes a Raspberry Pi 3 to run an image of ROS.
+- [Alphabot 2 Pi](https://www.waveshare.com/wiki/AlphaBot2-Pi). Robot hardware used for the development. Is includes a Raspberry Pi 3 to run an image of Linux with ROS.
 
 ## Development
 The duration of the project was of 6 months. The problem was fractioned into chains.
