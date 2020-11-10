@@ -9,7 +9,7 @@
 
 ---
 [Mapping of the great barrier reef](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpeg?raw=true"/>
+<img src="images/the_final_countdown.gif?raw=true"/>
 
 ---
 [Data Analyst at Grok Learning](http://example.com/)
