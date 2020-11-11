@@ -11,7 +11,7 @@
 - [Project 5](sub_pages/soon.md)
 
 ### Software Engineering
-- [Data Analysis - Grok Learning](sub_pages/grok_learning.md)
+- [Data Analysis - Grok Learning](sub_pages/groklearning.md)
 - [Card Blackjack Algorithm](sub_pages/soon.md)
 - [Project 3](sub_pages/soon.md)
 - [Project 4](sub_pages/soon.md)
@@ -39,7 +39,7 @@ Matlab applied to computer vision
 <img src="images/thesis_ball_following.gif?raw=true"/>
 
 ---
-[Data Analyst at Grok Learning](/sub_pages/grok_learning.md)  
+[Data Analyst at Grok Learning](/sub_pages/groklearning.md)  
 Tableau, SQL and Pandas
   
 <img src="images/groklearning_setup.jpeg?raw=true"/>
