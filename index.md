@@ -36,7 +36,7 @@ Developed using ROS and Python.
 [Mapping of the great barrier reef](/sub_pages/great_barrier_reef.md)  
 Matlab applied to computer vision
   
-<img src="images/thesis_ball_following.gif?raw=true"/>
+<img src="images/reef_mapping.gif?raw=true"/>
 
 ---
 [Data Analyst at Grok Learning](/sub_pages/groklearning.md)  
