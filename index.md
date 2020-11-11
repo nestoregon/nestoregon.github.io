@@ -11,7 +11,7 @@
 - [Project 5](sub_pages/soon.md)
 
 ### Software Engineering
-- [Data Analysis - Grok Learning](sub_pages/grok_learning.mdg)
+- [Data Analysis - Grok Learning](sub_pages/grok_learning.md)
 - [Card Blackjack Algorithm](sub_pages/soon.md)
 - [Project 3](sub_pages/soon.md)
 - [Project 4](sub_pages/soon.md)
