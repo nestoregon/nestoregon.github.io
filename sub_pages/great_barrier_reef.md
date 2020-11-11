@@ -31,7 +31,8 @@ Final map
 ![Reef Mapping](../images/reef_mapping.gif)
 
 ## Download the PDF
+[Asssignment PDF](../pdf/reef.pdf)
 
 ## Access to the code
-Send me an email to nmoralesdfl@gmail.com to privately send you all the files.
+Send me an email to nmoralesdfl@gmail.com to privately send you the files.
  
