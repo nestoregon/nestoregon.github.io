@@ -5,7 +5,7 @@ The company had a lot of data from their different activities and wanted to get 
 
 ## Tools
 - [Tableau](https://www.tableau.com) is a data analysis platform with an user-friendly interface
-- [Pandas](https://docs.particle.io/electron/) is an IoT board provided with a SIM card slot for IoT communications and access to internet.
+- [Pandas](https://pandas.pydata.org/) is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
 
 ## Development
 There were two major tasks carried out:
@@ -21,5 +21,5 @@ I learned how to work with my supervisor in charge of sales while remaining inde
 
 ## Recommendation letter
 
-[Recommendation letter Hullbot](../pdf/recommendation_letter_hullbot.pdf)
+[Grok Learning PDF](../pdf/recommendation_letter_groklearning.pdf)
 
