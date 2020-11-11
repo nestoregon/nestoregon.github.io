@@ -33,7 +33,8 @@ Final map
 [Asssignment PDF](../pdf/reef.pdf)
 
 ## Code
-Send me an email to [nmoralesdfl@gmail.com](mailto:nmoralesdlf@gmail.com) to privately send you the files.
+Send me an email to [nmoralesdfl@gmail.com](mailto:nmoralesdlf@gmail.com) to privately send you the files.  
+Tested in MATLAB 2020b.
  
 ```matlab
 % Nestor Morales

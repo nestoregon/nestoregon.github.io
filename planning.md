@@ -4,10 +4,10 @@ The purpose of this website is to showcase my work as a robotics and software en
 
 ## Work
 
-- [ ] Hullbot
+- [x] Hullbot
 - [ ] Grok Learning
-- [ ] Great Barrier Reef
-- [ ] Bachelor Degree Thesis
+- [x] Great Barrier Reef
+- [x] Bachelor Degree Thesis
 - [ ] Card detection algorithm
 - [ ] Python automation of Students
 
