@@ -7,22 +7,22 @@
 - [Robotics Engineer - Hullbot](sub_pages/hullbot.md)
 - [Bachelor Degree Thesis Autonomous Robots](sub_pages/bachelor_thesis.md)
 - [Mapping of the Great Barrier Reef](sub_pages/great_barrier_reef.md)
-- [Project 4 Title](sub_pages/soon.md)
-- [Project 5 Title](sub_pages/soon.md)
+- [Project 4](sub_pages/soon.md)
+- [Project 5](sub_pages/soon.md)
 
 ### Software Engineering
 - [Data Analysis - Grok Learning](sub_pages/grok_learning.md)
 - [Card Blackjack Algorithm](sub_pages/soon.md)
-- [Project 3 Title](sub_pages/soon.md)
-- [Project 4 Title](sub_pages/soon.md)
-- [Project 5 Title](sub_pages/soon.md)
+- [Project 3](sub_pages/soon.md)
+- [Project 4](sub_pages/soon.md)
+- [Project 5](sub_pages/soon.md)
 
 ### Side projects
 - [Python Automation - Income tracking](sub_pages/soon.md)
-- [Project 2 Title](sub_pages/soon.md)
-- [Project 3 Title](sub_pages/soon.md)
-- [Project 4 Title](sub_pages/soon.md)
-- [Project 5 Title](sub_pages/soon.md)
+- [Project 2](sub_pages/soon.md)
+- [Project 3](sub_pages/soon.md)
+- [Project 4](sub_pages/soon.md)
+- [Project 5](sub_pages/soon.md)
 
 
 ---
