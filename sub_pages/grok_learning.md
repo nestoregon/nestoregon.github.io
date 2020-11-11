@@ -10,7 +10,15 @@ The company had a lot of data from their different activities and wanted to get 
 ## Development
 The first weeks I was in charge of learning [Tableau](https://www.tableau.com) and analyze the last major challenge Grok Learning provided: a coding competition for middle school. The results cannot be displayed given for company propoerty reasons.
 
-The second week I worked with [Jupyter Notebooks](https://jupyter.org/) and [Pandas](https://pandas.pydata.org/) to cluster the students into groups depending regarding their performance in the challenge explained above. I used [PostgreSQL](https://www.postgresql.org/)
+The second week I worked with [Jupyter Notebooks](https://jupyter.org/) and [Pandas](https://pandas.pydata.org/) to cluster the students into groups depending regarding their performance in the challenge explained above. I used [PostgreSQL](https://www.postgresql.org/) to run queries for the specific data regarding student behaviour.
+
+Work setup and environment:
+
+![Setup Grok Learning](../images/groklearning_setup.jpeg)
+
+
+Last day of work:
+![Last day at work](../images/groklearning_cake.jpeg)
 
 
 ## Conclusions
