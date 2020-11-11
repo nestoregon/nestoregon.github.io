@@ -1,7 +1,7 @@
 # Portfolio
 
 ---
-# Starred work
+## Starred work
 [Bachelor Degree Thesis - Autonomous Robots](/sub_pages/bachelor_thesis.md)  
 Developed using ROS and Python.
   
@@ -37,7 +37,7 @@ C++ and IoT technologies
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
-###Software Engineering
+### Software Engineering
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
