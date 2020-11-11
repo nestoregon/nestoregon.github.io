@@ -24,7 +24,7 @@ We have the pair of images that correspond to the surface of the reef. The proce
 - **Plot results** Plot the different results such as the map, WORLD VIEW and CAMERA VIEW.
 
 ## Outcome
-Harris matching points with RANDSAC for inlier detection
+
 All Matlab Windows
 ![All Graphs](../images/reef_all_graphs.png)
 
