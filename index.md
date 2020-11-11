@@ -1,6 +1,31 @@
 # Portfolio
 
 ---
+## Categories
+
+### Robotics Engineering
+- [Robotics Engineer - Hullbot](sub_pages/hullbot.md)
+- [Bachelor Degree Thesis Autonomous Robots](sub_pages/bachelor_thesis.md)
+- [Mapping of the Great Barrier Reef](sub_pages/great_barrier_reef.md)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+### Software Engineering
+- [Data Analysis - Grok Learning](http://example.com/)
+- [Card Blackjack Algorithm](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+### Side projects
+- [Python Automation - Income tracking](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+
+---
 ## Starred work
 [Bachelor Degree Thesis - Autonomous Robots](/sub_pages/bachelor_thesis.md)  
 Developed using ROS and Python.
@@ -24,32 +49,6 @@ Tableau, SQL and Pandas (python)
 C++ and IoT technologies
   
 <img src="images/hullbot_workflow.jpg?raw=true"/>
-
----
-
-
-## Categories
-
-### Robotics Engineering
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
-### Software Engineering
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
-### Side projects
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
