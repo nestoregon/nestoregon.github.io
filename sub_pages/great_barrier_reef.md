@@ -24,7 +24,8 @@ We have the pair of images that correspond to the surface of the reef. The proce
 
 ## Outcome
 Harris matching points with RANDSAC for inlier detection
-![Harris Matching points](../images/reef_matching_harris.png)
+All Matlab Windows
+![All Graphs](../images/reef_all_graphs.png)
 
 Final map
 ![Reef Mapping](../images/reef_mapping.gif)
