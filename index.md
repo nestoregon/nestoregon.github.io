@@ -30,7 +30,7 @@
 [Bachelor Degree Thesis - Autonomous Robots](/sub_pages/bachelor_thesis.md)  
 Developed using ROS and Python.
   
-<img src="images/thesis_ball_following_mode.gif?raw=true"/>
+<img src="images/thesis_manual_mode.gif?raw=true"/>
 
 ---
 [Mapping of the great barrier reef](/sub_pages/great_barrier_reef.md)  
