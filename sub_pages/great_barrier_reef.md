@@ -4,6 +4,7 @@ The goal was to map the barrier reef given a set of images and data belonging to
 
 ## Tools
 - [MATLAB](https://www.mathworks.com/products/matlab.html) is a high-performance language for technical computing. It integrates computation, visualization, and programming in an easy-to-use environment where problems and solutions are expressed in familiar mathematical notation.
+- [Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html) provides algorithms, functions, and apps for designing and testing computer vision, 3D vision, and video processing systems.
 - [Stero Vision Data](https://en.wikipedia.org/wiki/Computer_stereo_vision). In order to perform the mapping of the surface the students were provided a sample of the images captured by the camera.
 
 ## Development
