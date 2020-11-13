@@ -17,8 +17,8 @@ Work setup and environment:
 ![Setup Grok Learning](../images/groklearning_setup.jpeg)
 
 
-Last day of work:
-![Last day at work](../images/groklearning_cake.jpeg)
+<!--Last day of work:-->
+<!--![Last day at work](../images/groklearning_cake.jpeg)-->
 
 
 ## Conclusions
