@@ -1,4 +1,4 @@
-# Advent of Code
+vi # Advent of Code
 
 Hey all! I would like to take you across my journey to solve the advent of code.
 
