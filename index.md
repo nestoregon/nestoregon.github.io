@@ -13,7 +13,7 @@
 ### Software Engineering
 - [Data Analysis - Grok Learning](sub_pages/groklearning.md)
 - [Card Blackjack Algorithm](sub_pages/soon.md)
-- [Advent Of Code](advent_of_code.md)
+- [Advent Of Code](advent.html)
 <!--- [Project 3](sub_pages/soon.md)-->
 <!--- [Project 4](sub_pages/soon.md)-->
 <!--- [Project 5](sub_pages/soon.md)-->
